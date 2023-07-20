@@ -1,0 +1,22 @@
+# Ignore the virtual environment folder
+venv/
+jaipur/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ignore IDE-specific files (customize as needed for your IDE)
+.vscode/
+.idea/
+
+# Ignore the Lib folder of the virtual environment
+Lib/
+
+# Ignore any other files or directories you don't want to track
+...
